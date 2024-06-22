@@ -1,5 +1,5 @@
 # Netlify Deployed Link
-"react-food-delivery-frontend.netlify.app"
+https://react-food-delivery-frontend.netlify.app/
 
 # React + Vite
 

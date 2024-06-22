@@ -1,4 +1,5 @@
-# Netlify DeployedLinked::react-food-delivery-frontend.netlify.app
+# Netlify DeployedLink
+react-food-delivery-frontend.netlify.app
 
 # React + Vite
 
